@@ -5,4 +5,6 @@ package com.example.dllo.hhaaa;
  */
 public class Bean {
     //新建的类
+
+    //哎呀哎呀哎呀
 }
